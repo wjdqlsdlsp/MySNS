@@ -17,4 +17,4 @@
 8. Django 기초반 11기 - 이바울   (스파르타코딩클럽) / 2021 
 
 
-9. AWS Certified Solution Architect Associate (udemy) / 2022
+9. AWS Certified Solution Architect Associate (udemy) / 2022 
