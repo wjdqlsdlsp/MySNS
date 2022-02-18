@@ -15,6 +15,4 @@
 6. 왕초보 시작반 34기 (웹사이트 기초반) - 이범규 (스파르타코딩클럽) / 2021
 7. 알고보면 알기쉬운 알고리즘 21기 - 박현준  (스파르타코딩클럽) / 2021
 8. Django 기초반 11기 - 이바울   (스파르타코딩클럽) / 2021 
-
-
-9. AWS Certified Solution Architect Associate (udemy) / 2022 
+9. AWS Certified Solution Architect Associate (udemy) + AWS SAA C02 모의고사 / 2022 
