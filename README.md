@@ -18,3 +18,4 @@
 9. AWS Certified Solution Architect Associate (udemy) + AWS SAA C02 모의고사 / 2022 
 10. 초보를 위한 도커 안내서 - subicura (인프런) / 2022
 11. 따라배우는 쿠버네티스 (유튜브) / 2022
+12. Java문법 뽀개기 - 이윤성 (스파르타코딩클럽) / 2022
