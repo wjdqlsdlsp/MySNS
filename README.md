@@ -24,3 +24,6 @@
 15. AWS and 테라폼: Infrastructure as Code 초급, 입문편 / 2022
 16. 자바 기본을 위한 강의 1부
 17. Cloud Jam - 심화반 (GKE)
+- Architecting with Google Kubernetes Engine: Foundations
+- Architecting with Google Kubernetes Engine: Workloads
+- Architecting with Google Kubernetes Engine: Production
