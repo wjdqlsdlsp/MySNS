@@ -27,3 +27,8 @@
 - Architecting with Google Kubernetes Engine: Foundations
 - Architecting with Google Kubernetes Engine: Workloads
 - Architecting with Google Kubernetes Engine: Production
+18. 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide) - 최태현 (인프런) / 2022
+19. 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링) - 최태현 (인프런) / 2022
+20. 실습으로 배우는 프로메테우스 - 문성주/조훈 (인프런) / 2022
+21. Prometheus와Grafana를이용한실시간모니터링시각화 - 김우진 (패스트캠퍼스) / 2022
+22. Kubernetes자격증마스터클래스:CKA/CKAD/CKS - 이성미 (패스트캠퍼스) / 2022
